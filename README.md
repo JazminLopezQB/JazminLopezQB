@@ -4,8 +4,9 @@
   - Actualmente manejo (Al menos intento) los siguientes lenguajes:
     1. `C` ©️
     2. `Python` 🐍
-    3. Si cuentan `html`, `css` y `markdown`🌟
-  - 
+    3. Inglés 🇬🇧
+    4. Español 🇦🇷
+    5. Si cuentan `html`, `css` y `markdown`🌟
 
 Phhs...
 
