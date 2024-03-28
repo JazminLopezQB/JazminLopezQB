@@ -7,11 +7,23 @@
     3. Inglés 🇬🇧
     4. Español 🇦🇷
   - A veces hago cosas bonitas con:
-    1. `html`
-    2. `css`
+    1. `HTML`
+    2. `CSS`
     3. $\boxed{\textrm{Latex}}$
     4. `markdown`🌟
   - Y dibujo pero eso no importa aquí ¯\\_(ツ)_/¯
+
+- Algunas buenas herramientas:
+  - Para desarrollo:
+    - Clion
+    - VS Codium
+    - CodeBlocks
+  - Para tomar notas:
+    - Obsidian
+    - Xournal++
+  - Y para dibujar:
+    - Krita
+    - Clip Paint Studio
 
 Phhs...
 
