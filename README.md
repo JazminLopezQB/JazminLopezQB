@@ -6,7 +6,12 @@
     2. `Python` 🐍
     3. Inglés 🇬🇧
     4. Español 🇦🇷
-    5. Si cuentan `html`, `css` y `markdown`🌟
+  - A veces hago cosas bonitas con:
+    1. `html`
+    2. `css`
+    3. $\boxed{\textrm{Latex}}$
+    4. `markdown`🌟
+  - Y dibujo pero eso no importa aquí ¯\\_(ツ)_/¯
 
 Phhs...
 
