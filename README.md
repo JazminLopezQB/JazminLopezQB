@@ -2,7 +2,7 @@
 
 - Hola! Estudio en la facultad de ingeniería del ejercito.
   - Actualmente manejo (Al menos intento) los siguientes lenguajes:
-    1. `C` ©️
+    1. `C` y `C++` ©️
     2. `Python` 🐍
     3. Inglés 🇬🇧
     4. Español 🇦🇷
@@ -18,12 +18,14 @@
     - Clion
     - VS Codium
     - CodeBlocks
+    - Kate
   - Para tomar notas:
     - Obsidian
     - Xournal++
   - Y para dibujar:
     - Krita
     - Clip Paint Studio
+    - Ibis Paint
 
 Phhs...
 
