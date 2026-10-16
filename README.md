@@ -2,15 +2,18 @@
 
 - Hola! Estudio en la facultad de ingeniería del ejercito.
   - Actualmente manejo (Al menos intento) los siguientes lenguajes:
-    1. `C` y `C++` ©️
-    2. `Python` 🐍
-    3. Inglés 🇬🇧
-    4. Español 🇦🇷
+    1. ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+    2. ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+    3. ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  - Y hablo estos idiomas:
+    1. Inglés 🇬🇧
+    2. Español 🇦🇷
   - A veces hago cosas bonitas con:
-    1. `HTML`
-    2. `CSS`
+    1. ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+    2. ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
     3. $\boxed{\textrm{Latex}}$
-    4. `markdown`🌟
+    4. ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
   - Y dibujo pero eso no importa aquí ¯\\_(ツ)_/¯
 
 - Algunas buenas herramientas:
