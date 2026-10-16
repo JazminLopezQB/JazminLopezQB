@@ -17,21 +17,15 @@
   - Y dibujo pero eso no importa aquí ¯\\_(ツ)_/¯
 
 - Algunas buenas herramientas:
-  - Para desarrollo:
-    - Clion
-    - VS Codium
-    - CodeBlocks
-    - Kate
-  - Para tomar notas:
-    - Obsidian
-    - Xournal++
-  - Y para dibujar:
-    - Krita
-    - Clip Paint Studio
-    - Ibis Paint
+| Uso | Herramientas |
+| --- | --- |
+| **Desarrollo** | VSCodium · Kate |
+| **Notas y apuntes** | Obsidian · Xournal++ |
+| **Dibujo** | Krita · Clip Studio Paint · ibisPaint |
 
 Phhs...
 
+```
 ˚ ༘ ೀ⋆｡˚
       ⋆｡
     °
@@ -39,8 +33,9 @@ Phhs...
 ⋆ ˚
   ⋆ ˚｡⋆୨୧ ⁺˚⋆｡
 °✩₊
+```
 
-Ten un buen día amigo, te lo mereces ૮ • ﻌ - ა
+*Ten un buen día amigo, te lo mereces ૮ • ﻌ - ა*
 
 <!---
 JazminLopezQB/JazminLopezQB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
