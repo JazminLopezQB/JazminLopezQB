@@ -17,6 +17,7 @@
   - Y dibujo pero eso no importa aquí ¯\\_(ツ)_/¯
 
 - Algunas buenas herramientas:
+- 
 | Uso | Herramientas |
 | --- | --- |
 | **Desarrollo** | VSCodium · Kate |
@@ -25,7 +26,7 @@
 
 Phhs...
 
-```
+
 ˚ ༘ ೀ⋆｡˚
       ⋆｡
     °
@@ -33,7 +34,7 @@ Phhs...
 ⋆ ˚
   ⋆ ˚｡⋆୨୧ ⁺˚⋆｡
 °✩₊
-```
+
 
 *Ten un buen día amigo, te lo mereces ૮ • ﻌ - ა*
 
