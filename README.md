@@ -17,7 +17,7 @@
   - Y dibujo pero eso no importa aquí ¯\\_(ツ)_/¯
 
 - Algunas buenas herramientas:
-- 
+
 | Uso | Herramientas |
 | --- | --- |
 | **Desarrollo** | VSCodium · Kate |
