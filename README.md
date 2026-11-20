@@ -42,24 +42,6 @@ Soy una estudiante de ingeniería informática que ama aprender cosas nuevas, pa
 - 🇪🇸 **Español** · ![Nativo](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
 - 🇬🇧 **Inglés** · ![Avanzado (C1)](https://img.shields.io/badge/-Advanced-66bb6a?style=flat-square)
 
-### Estadisticas de GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JazminLopezQB&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="J@zmín stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JazminLopezQB&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="J@zmín top languages"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=JazminLopezQB&theme=github_dark&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-### Actividad
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JazminLopezQB&theme=github-dark&hide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/graph?username=JazminLopezQB&theme=github-dark&hide_border=true&area=true)
-
 ---
 
 <div align="center">
